@@ -19,7 +19,7 @@ It looks to a player like there's just some kind of invisible wall. They feel te
 00:05:25 Bryan: Work from computational work?
 00:05:28 Jonathan: Yes. Just taking something like let's detect the collision between something in its environment as an example. Back in old style computers, there were ways of accelerating that even on home computers. I never had an Atari home computer.
 00:05:47 Bryan: Oh, really? Wow.
-00:05:48 Jonathan: I was a Counter64 [unintelligible 00:05:51] guy when I was in high school. Compared to your previous guess, that's recent history.
+00:05:48 Jonathan: I was a Commodore 64, TRS-80 guy when I was in high school. Compared to your previous guess, that's recent history.
 00:05:59 Bryan: You and I are on the same vintage. I did have an Atari 2600.
 00:06:07 Jonathan: A 2600, I had. I mean the computers.
 00:06:10 Bryan: The 800.
